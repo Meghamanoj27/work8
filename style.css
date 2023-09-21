@@ -1,0 +1,39 @@
+.first{
+    background-color: rgb(82, 148, 148);
+    height: 120px;
+    width: auto;
+    color: white;
+    text-align: center;
+    padding-top: 19px;
+}
+.sec{
+    width: 560px;
+    margin: 0 auto;
+    text-align: center;
+    height: 217px;
+    margin-top: 65px;
+    color: rgb(71, 69, 69);
+
+}
+.third{
+    display: flex;
+    background-color: darkslategray;
+    height:180px ;
+    padding-left: 150px;
+    padding-right: 150px;
+    color: white;
+
+}
+.sub1{
+    text-align: center;
+    padding-right: 20px;
+}
+.sub2{
+    text-align: center;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.sub3{
+    text-align: center;
+    padding-right: 20px;
+}
